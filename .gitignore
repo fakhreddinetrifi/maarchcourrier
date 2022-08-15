@@ -1,0 +1,14 @@
+composer.lock
+installed.lck
+apps/maarch_entreprise/xml/config.xml
+apps/maarch_entreprise/xml/config.json
+apps/maarch_entreprise/xml/mailevaConfig.xml
+apps/maarch_entreprise/xml/log4php.xml
+*.log
+test/unitTests/build/
+cypress/
+modules/visa/xml/remoteSignatoryBooks.xml
+dist/
+dist-addin/
+node_modules/
+package-lock.json
